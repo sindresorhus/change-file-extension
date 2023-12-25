@@ -1,6 +1,6 @@
 {
 	"name": "change-file-extension",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Change the file extension of a path",
 	"license": "MIT",
 	"repository": "sindresorhus/change-file-extension",

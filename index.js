@@ -6,7 +6,7 @@ export default function changeFileExtension(filePath, extension) {
 	}
 
 	if (typeof extension !== 'string') {
-		throw new TypeError(`Expected \`extension\` to be a string, got \`${typeof filePath}\`.`);
+		throw new TypeError(`Expected \`extension\` to be a string, got \`${typeof extension}\`.`);
 	}
 
 	if (filePath === '') {
